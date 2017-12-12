@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>894729200198-pn4aqadata5eqg9rrph1tpuoh16g7lvs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.894729200198-pn4aqadata5eqg9rrph1tpuoh16g7lvs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBlJz4utSiY9sFYPmo5qpiNctEC5ix79Tw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>894729200198</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Tenny.project03</string>
+	<key>PROJECT_ID</key>
+	<string>project3-9891b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project3-9891b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:894729200198:ios:811c214de4747b42</string>
+	<key>DATABASE_URL</key>
+	<string>https://project3-9891b.firebaseio.com</string>
+</dict>
+</plist>

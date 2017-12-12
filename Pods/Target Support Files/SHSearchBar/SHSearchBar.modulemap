@@ -1,0 +1,6 @@
+framework module SHSearchBar {
+  umbrella header "SHSearchBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
