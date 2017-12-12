@@ -30,9 +30,7 @@ This project features:
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
 
-<img width="1001" alt="screen shot 2017-12-11 at 19 40 12" src="https://user-images.githubusercontent.com/17029800/33866495-da791aa0-deab-11e7-8b6d-678c9f01c5ed.png">
-[![Wine Store App](https://user-images.githubusercontent.com/17029800/33866495-da791aa0-deab-11e7-8b6d-678c9f01c5ed.png)](https://vimeo.com/246907047 "Demo - Click to Watch!")
-
+[![Demo](https://user-images.githubusercontent.com/17029800/33866495-da791aa0-deab-11e7-8b6d-678c9f01c5ed.png)](https://vimeo.com/246907047 "Demo - Click to watch")
 
 ** This App ranked #1 out of 15 in the class (General Assembly iOS immersive SF). 
  
