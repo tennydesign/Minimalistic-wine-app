@@ -39,6 +39,8 @@ Note: This project was huge, involving customer facing and backend interfaces wi
 Wireframe for the customer-facing interfaces. 
 <img width="839" alt="screen shot 2017-12-11 at 19 10 57" src="https://user-images.githubusercontent.com/17029800/33865712-bf20c4b4-dea7-11e7-83bf-d93aad79cba2.png">
 
+<img width="423" alt="screen shot 2017-12-11 at 20 20 30" src="https://user-images.githubusercontent.com/17029800/33867441-864340cc-deb1-11e7-8161-3b82591c670c.png">
+
 [![Demo](https://user-images.githubusercontent.com/17029800/33866495-da791aa0-deab-11e7-8b6d-678c9f01c5ed.png)](https://vimeo.com/246907047 "Demo - Click to watch")
 
 <img width="906" alt="screen shot 2017-12-11 at 18 53 09" src="https://user-images.githubusercontent.com/17029800/33865501-e1ed7d4e-dea6-11e7-837b-0dd334be95f9.png">
