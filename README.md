@@ -1,7 +1,7 @@
 # prj3-Wine-Store-App
 This third App is a minimalistic wine store with some clever hacking in it. 
 
-<img width="1421" alt="1" src="https://user-images.githubusercontent.com/17029800/33865357-43ef3f6a-dea6-11e7-9e88-06313d3c41a1.png">
+<img width="1535" alt="w1" src="https://user-images.githubusercontent.com/17029800/33865389-6402c4e8-dea6-11e7-8cc0-cd44a0cf0605.png">
 
 This project features: 
 
