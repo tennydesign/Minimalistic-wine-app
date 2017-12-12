@@ -1,5 +1,5 @@
 # prj3-Wine-Store-App
-This third App is a minimalistic wine store with some clever hacking in it. 
+This third App is a minimalistic wine store with some clever hacking in it.
 
 <img width="1535" alt="w1" src="https://user-images.githubusercontent.com/17029800/33865389-6402c4e8-dea6-11e7-8cc0-cd44a0cf0605.png">
 
@@ -34,7 +34,7 @@ This project features:
  
  Total hacking time: ~360 hours.
 
-Note: This project was huge, involving customer facing and backend interfaces with what looked like an infinite requirements list. It was built by me and [Jun Lee](Https://www.Github.com/juntomlee) and it took a crazy sleep deprivation hacking schedule for us to finish this baby monster in two and a half weeks. In the end it looks simple and clean, but it's a beast =). 
+Note: This project was huge, involving customer facing and backend interfaces with what looked like an infinite requirements list. It took a crazy sleep deprivation hacking agenda for me and [Jun Lee](Https://www.Github.com/juntomlee) to finish this baby monster in two and a half weeks.This was a trio project. In the end it looks simple and clean, but it's a beast =). 
 
 Wireframe for the customer-facing interfaces. 
 <img width="839" alt="screen shot 2017-12-11 at 19 10 57" src="https://user-images.githubusercontent.com/17029800/33865712-bf20c4b4-dea7-11e7-83bf-d93aad79cba2.png">
