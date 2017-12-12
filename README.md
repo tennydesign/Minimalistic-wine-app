@@ -36,6 +36,8 @@ This project features:
 
 Note: This project was huge, involving customer facing and backend interfaces with what looked like an infinite requirements list. It was built by me and [Jun Lee](Https://www.Github.com/juntomlee) and it took a crazy sleep deprivation hacking schedule for us to finish this baby monster in two and a half weeks. In the end it looks simple and clean, but it's a beast =). 
 
+<img width="839" alt="screen shot 2017-12-11 at 19 10 57" src="https://user-images.githubusercontent.com/17029800/33865712-bf20c4b4-dea7-11e7-83bf-d93aad79cba2.png">
+
 <img width="906" alt="screen shot 2017-12-11 at 18 53 09" src="https://user-images.githubusercontent.com/17029800/33865501-e1ed7d4e-dea6-11e7-837b-0dd334be95f9.png">
 
 <img width="336" alt="screen shot 2017-12-11 at 18 53 54" src="https://user-images.githubusercontent.com/17029800/33865443-9c308378-dea6-11e7-9ad0-b08455443c59.png">
