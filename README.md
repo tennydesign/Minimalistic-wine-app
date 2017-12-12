@@ -28,7 +28,7 @@ This project features:
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
 
-** This App ranked #1 out of 15 in the the class (General Assembly iOS immersive SF). 
+** This App ranked #1 out of 15 in the class (General Assembly iOS immersive SF). 
  
  Total hacking time: ~360 hours.
 
