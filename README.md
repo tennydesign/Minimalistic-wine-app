@@ -15,14 +15,15 @@ This project features:
 - Fully integrated with Apple Pay and PassKit. 
 - Notifications (APN).
 - JSON serialization using Decodable objects/ parsing.
-- Two storyboards. 
-- A very minimalistic customer facing storyboard (one main collectionViewController)
+- Two storyboards. (one customer facing, one store owner facing). 
+- Full e-commerce flow (From inserting products in catalog to Apple Pay checkout)
+- Smart catalog for entering new products checks against wine data api's and fill the info for the store owner avoiding ghost data. 
+- A very minimalistic customer facing storyboard (one main collectionViewController), with one scene. 
 - Authentication (google sign in, and email sign in)
 - Access to five different APIs. (involved in the wine label image recognition workflow)
-- Protocols, Singletons (oh, I love singletons) and Delegates (many involved in controling the animations).  
+- Protocols, Singletons (oh, I love singletons) and Delegates (many involved in controling the animations).
 - Very intricate animations. 
 - Custom designed navigation controls, from scratch, not cocoapods. (top bar is actually an enhanced collection view etc...). 
-
 - Apple's Material Design and Human Interface Guidelines. 
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
@@ -31,4 +32,4 @@ This project features:
  
  Total hacking time: ~180 hours.
 
-Note: This project was huge, involving customer facing and backend interfaces with what looked like an infinite requirements list. It was built by me and [Jun Lee](Https://www.Github.com/juntomlee) and it took a crazy sleep deprivation hacking schedule,for us to finish it in two and a half weeks. So, please, pardon our dust. 
+Note: This project was huge, involving customer facing and backend interfaces with what looked like an infinite requirements list. It was built by me and [Jun Lee](Https://www.Github.com/juntomlee) and it took a crazy sleep deprivation hacking schedule for us to finish this baby monster in two and a half weeks. In the end it looks simple and clean, but it's a beast =). 
