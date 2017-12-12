@@ -44,6 +44,7 @@ Wireframe for the customer-facing interfaces.
 User interaction demo. 
 [![Demo](https://user-images.githubusercontent.com/17029800/33866495-da791aa0-deab-11e7-8b6d-678c9f01c5ed.png)](https://vimeo.com/246907047 "Demo - Click to watch")
 
+Screen flow demo. 
 [![Demo1](https://user-images.githubusercontent.com/17029800/33869650-cd483e0c-debe-11e7-9eb3-442bb7aed59a.png)](https://vimeo.com/246914048 "Demo - Click to watch")
 
 <img width="906" alt="screen shot 2017-12-11 at 18 53 09" src="https://user-images.githubusercontent.com/17029800/33865501-e1ed7d4e-dea6-11e7-837b-0dd334be95f9.png">
