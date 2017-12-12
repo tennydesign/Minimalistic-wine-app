@@ -9,7 +9,7 @@ This project features:
 - Some very cool collectionView stretching (including the tinder-like, swipe right and left, add/remove to cart feature) 
 - Very into MVC (for the good and the bad with the huge controllers).
 - An extremely responsive main cell, with clever auto-layout hack, plays adaptively the entire catalog. 
-- Only two cocoapods (slider up menu and star ratings... by now I hate cocoapods) 
+- Only two cocoapods (slider up menu and star ratings... by now I hate messy cocoapods) 
 - Some serious real-time database with Firebase. 
 - A more dense OOP structure. 
 - Fully integrated with Apple Pay and PassKit. 
@@ -23,13 +23,13 @@ This project features:
 - Access to five different APIs. (involved in the wine label image recognition workflow)
 - Protocols, Singletons (oh, I love singletons) and Delegates (many involved in controling the animations).
 - Very intricate animations. 
-- Custom designed navigation controls, from scratch, not cocoapods. (top bar is actually an enhanced collection view etc...). 
+- Custom designed navigation controls, from scratch, not cocoapods. (top bar is actually an enhanced collection view with programatic auto-layout and positioning). 
 - Apple's Material Design and Human Interface Guidelines. 
 - Balsamiq prototype.
 - POP (Marvel) prototype. 
 
 ** This App ranked #1 (finally, right?) out of 15 in the the class (General Assembly iOS immersive SF). 
  
- Total hacking time: ~180 hours.
+ Total hacking time: ~360 hours.
 
 Note: This project was huge, involving customer facing and backend interfaces with what looked like an infinite requirements list. It was built by me and [Jun Lee](Https://www.Github.com/juntomlee) and it took a crazy sleep deprivation hacking schedule for us to finish this baby monster in two and a half weeks. In the end it looks simple and clean, but it's a beast =). 
