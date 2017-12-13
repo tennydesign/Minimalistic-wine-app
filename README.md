@@ -32,7 +32,7 @@ This project features:
 
 ** This App ranked #1 out of 15 in the class (General Assembly iOS immersive SF). 
  
- Total hacking time: ~360 hours.
+ Total hacking time: ~360 hours in 3 weeks.
 
 Note: This project was huge, involving customer facing and backend interfaces with what looked like an infinite requirements list. It took a crazy sleep deprivation hacking agenda to finish this baby monster in two and a half weeks. This was a trio project. In the end it looks simple and clean, but it's a beast =). 
 
