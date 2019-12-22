@@ -1,4 +1,4 @@
-# This is a minimalistic wine store
+# minimalistic wine store
 
 <img width="1535" alt="w1" src="https://user-images.githubusercontent.com/17029800/33865389-6402c4e8-dea6-11e7-8cc0-cd44a0cf0605.png">
 
