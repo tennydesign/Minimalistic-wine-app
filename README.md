@@ -1,5 +1,4 @@
-# Final project for GA iOS Immersive -- Class Winner :D
-This third App is a minimalistic wine store with some clever hacking in it.
+# This is a minimalistic wine store
 
 <img width="1535" alt="w1" src="https://user-images.githubusercontent.com/17029800/33865389-6402c4e8-dea6-11e7-8cc0-cd44a0cf0605.png">
 
