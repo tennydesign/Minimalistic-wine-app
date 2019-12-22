@@ -11,7 +11,7 @@ This project features:
 - Some very cool collectionView stretching (including the tinder-like, swipe right and left, add/remove to cart feature) 
 - Very into MVC (for the good and the bad with the huge controllers).
 - An extremely responsive main cell, with clever auto-layout hack, plays adaptively the entire catalog. 
-- Only two cocoapods (slider up menu and star ratings... by now I hate messy cocoapods) 
+- Only two cocoapods (slider up menu and star ratings) 
 - Some serious real-time database with Firebase. 
 - A more dense OOP structure. 
 - Fully integrated with Apple Pay and PassKit. 
@@ -20,10 +20,10 @@ This project features:
 - Two storyboards. (one customer facing, one store owner facing). 
 - Full e-commerce flow (From inserting products in catalog to Apple Pay checkout)
 - Smart catalog for entering new products checks against wine data api's and fill the info for the store owner avoiding ghost data. 
-- A very minimalistic customer facing storyboard (one main collectionViewController), with one scene. 
+- A very minimalistic storyboard. 
 - Authentication (google sign in, and email sign in)
 - Access to five different APIs. (involved in the wine label image recognition workflow)
-- Protocols, Singletons (oh, I love singletons) and Delegates (many involved in controling the animations).
+- Protocols, Singletons and Delegates (many involved in controling the animations).
 - Very intricate animations. 
 - Custom designed navigation controls, from scratch, not cocoapods. (top bar is actually an enhanced collection view with programatic auto-layout and positioning). 
 - Apple's Material Design and Human Interface Guidelines. 
